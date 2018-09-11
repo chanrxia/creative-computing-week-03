@@ -2,3 +2,16 @@
     box-sizing: border-box;
 }
 
+body {
+	color: green;
+}
+
+
+a {
+	color: orange;
+}
+
+
+.more-text {
+	color: gray;
+}
