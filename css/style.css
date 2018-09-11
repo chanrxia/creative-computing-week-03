@@ -19,3 +19,12 @@ a {
 #title {
 	color: blue;
 }
+
+.important,
+.important a {
+	color: red;
+}
+
+p #second {
+	color: pink;
+}
